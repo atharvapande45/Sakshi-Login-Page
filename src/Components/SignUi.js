@@ -36,7 +36,7 @@ function SignUi() {
 
             <p className="link">
               <a href="#">Forgot password ?</a> Or &nbsp;
-              <a href="../Components/SignUi.js">Sign Up</a>
+              <a href="/">Login</a>
             </p>
           </div>
         </div>
